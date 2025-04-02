@@ -1,0 +1,6 @@
+
+#define PROMPTCOL 0
+#define FIELDCOL SMG$M_BOLD
+#define HEADCOL SMG$M_BOLD
+
+
