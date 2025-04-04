@@ -211,8 +211,6 @@ int display_list();
 
 
 
-#define TRUE 1
-#define FALSE 0
 #define EVER (;;)
 #define ETERNITY (;;)
 
